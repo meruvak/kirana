@@ -14,4 +14,4 @@ $_['text_account']      = 'My Account';
 $_['text_order']        = 'Order History';
 $_['text_wishlist']     = 'Wish List';
 $_['text_newsletter']   = 'Newsletter';
-$_['text_powered']      = 'Powered By Swasthik Import & Export Pte Ltd © 2021';
+$_['text_powered']      = ' %s &copy; %s';
